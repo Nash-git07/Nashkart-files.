@@ -1,0 +1,16 @@
+This contains the: 
+  1.code for the web application.
+  2.code for Preprocessing of data.
+  3.csv files.
+  4.final dashboard of the analysis.
+  5.full report of the project.
+ 
+For the clear output please use the below link:
+  1. https://nashkart.herokuapp.com/ ( E-commerce web application )
+  2. https://public.tableau.com/profile/naresh.kumar.j#!/ ( analysis dashboard )
+
+Note: 1. The code for the webapplication is compressed in zip format extract it in a desired 
+         location and open up the entire folder in pycharm or vscode for a clear understanding.
+      2. Use the terminal go to the folder which contains all the files and type the command ( python manage.py runserver ).
+         This will allow the project to run in your local machine.(note: local machine must have django installed. )  
+

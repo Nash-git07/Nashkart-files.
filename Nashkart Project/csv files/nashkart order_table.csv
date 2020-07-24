@@ -1,0 +1,1811 @@
+id,quantity,order_id,Product,Category
+1,1,1,Bible,Books
+2,2,2,Bible,Books
+3,1,2,Over_head headset,Electronics
+4,1,2,Grapes,Fruits
+5,1,2,Carrot,Vegetables
+6,1,2,Olive oil,Provision
+7,1,2,Black T-shirt,Clothing
+8,1,3,Over_head headset,Electronics
+9,1,4,Sweet Corn,Vegetables
+10,1,5,Sweet Corn,Vegetables
+11,1,6,Over_head headset,Electronics
+12,1,7,Tomato,Vegetables
+13,2,8,Bible,Books
+14,2,9,Laptop,Electronics
+15,1,10,Bible,Books
+16,1,11,Monitor,Electronics
+17,1,11,Laptop,Electronics
+18,1,11,Mobile,Electronics
+19,1,12,Monitor,Electronics
+20,1,12,Laptop,Electronics
+21,1,12,Mobile,Electronics
+22,1,13,Monitor,Electronics
+23,1,13,Laptop,Electronics
+24,1,13,Mobile,Electronics
+25,1,14,Monitor,Electronics
+26,1,14,Laptop,Electronics
+27,1,14,Mobile,Electronics
+28,1,15,Monitor,Electronics
+29,1,15,Laptop,Electronics
+30,1,15,Mobile,Electronics
+31,1,16,Monitor,Electronics
+32,1,16,Laptop,Electronics
+33,1,16,Mobile,Electronics
+34,1,17,Monitor,Electronics
+35,1,17,Laptop,Electronics
+36,1,17,Mobile,Electronics
+37,1,18,pepper,Provision
+38,1,19,Wireless Mouse,Electronics
+39,1,20,Harry Potter vol-1,Books
+40,1,20,Harry Potter vol-3,Books
+41,1,20,Game of thrones,Books
+42,1,20,Laptop,Electronics
+43,1,20,Pen Drive - 32 GB,Electronics
+44,1,20,Apple,Fruits
+45,1,20,Banana,Fruits
+46,1,20,Watermelon,Fruits
+47,1,20,onion,Vegetables
+48,1,20,Tomato,Vegetables
+49,1,20,Sweet Corn,Vegetables
+50,1,20,Carrot,Vegetables
+51,1,20,Olive oil,Provision
+52,1,21,Harry Potter vol-1,Books
+53,1,21,Harry Potter vol-3,Books
+54,1,21,Game of thrones,Books
+55,1,21,Laptop,Electronics
+56,1,21,Pen Drive - 32 GB,Electronics
+57,1,21,Apple,Fruits
+58,1,21,Banana,Fruits
+59,1,21,Watermelon,Fruits
+60,1,21,onion,Vegetables
+61,1,21,Tomato,Vegetables
+62,1,21,Sweet Corn,Vegetables
+63,1,21,Carrot,Vegetables
+64,1,22,Harry Potter vol-1,Books
+65,1,21,Olive oil,Provision
+66,1,22,Harry Potter vol-3,Books
+67,1,22,Game of thrones,Books
+68,1,22,Laptop,Electronics
+69,1,22,Pen Drive - 32 GB,Electronics
+70,1,22,Apple,Fruits
+71,1,22,Banana,Fruits
+72,1,22,Watermelon,Fruits
+73,1,22,onion,Vegetables
+74,1,22,Tomato,Vegetables
+75,1,22,Sweet Corn,Vegetables
+76,1,22,Carrot,Vegetables
+77,1,22,Olive oil,Provision
+78,1,23,Harry Potter vol-1,Books
+79,1,23,Harry Potter vol-3,Books
+80,1,23,Game of thrones,Books
+81,1,23,Laptop,Electronics
+82,1,23,Pen Drive - 32 GB,Electronics
+83,1,23,Apple,Fruits
+84,1,23,Banana,Fruits
+85,1,23,Watermelon,Fruits
+86,1,23,onion,Vegetables
+87,1,23,Tomato,Vegetables
+88,1,23,Sweet Corn,Vegetables
+89,1,23,Carrot,Vegetables
+90,1,23,Olive oil,Provision
+91,1,24,Bible,Books
+92,1,24,Over_head headset,Electronics
+93,1,24,Monitor,Electronics
+94,1,24,Mobile,Electronics
+95,1,24,Olive oil,Provision
+96,1,24,pepper,Provision
+97,1,24,Blue T-shirt,Clothing
+98,1,25,Bible,Books
+99,1,25,Over_head headset,Electronics
+100,1,25,Monitor,Electronics
+101,1,25,Mobile,Electronics
+102,1,25,Olive oil,Provision
+103,1,25,pepper,Provision
+104,1,25,Blue T-shirt,Clothing
+105,1,26,Bible,Books
+106,1,26,Over_head headset,Electronics
+107,1,26,Monitor,Electronics
+108,1,26,Mobile,Electronics
+109,1,26,Olive oil,Provision
+110,1,26,pepper,Provision
+111,1,26,Blue T-shirt,Clothing
+112,1,27,Bible,Books
+113,1,27,Over_head headset,Electronics
+114,1,27,Monitor,Electronics
+115,1,27,Mobile,Electronics
+116,1,27,Olive oil,Provision
+117,1,27,pepper,Provision
+118,1,27,Blue T-shirt,Clothing
+119,3,28,Bible,Books
+120,1,28,Harry Potter vol-3,Books
+121,3,28,Over_head headset,Electronics
+122,2,28,Monitor,Electronics
+123,2,28,Laptop,Electronics
+124,2,28,Keyboard,Electronics
+125,1,29,Olive oil,Provision
+126,1,30,Apple,Fruits
+127,1,30,Watermelon,Fruits
+128,2,30,onion,Vegetables
+129,1,30,Tomato,Vegetables
+130,1,30,Sweet Corn,Vegetables
+131,1,30,pepper,Provision
+132,1,30,Cap,Clothing
+133,1,30,Blue T-shirt,Clothing
+134,1,31,Apple,Fruits
+135,1,31,Watermelon,Fruits
+136,2,31,onion,Vegetables
+137,1,31,Tomato,Vegetables
+138,1,31,Sweet Corn,Vegetables
+139,1,31,pepper,Provision
+140,1,31,Cap,Clothing
+141,1,31,Blue T-shirt,Clothing
+142,1,32,Over_head headset,Electronics
+143,1,32,Mobile,Electronics
+144,1,32,Watermelon,Fruits
+145,1,32,Sweet Corn,Vegetables
+146,1,33,Mobile,Electronics
+147,1,33,Sweet Corn,Vegetables
+148,1,33,Cauliflower,Vegetables
+149,2,33,Olive oil,Provision
+150,2,33,Black T-shirt,Clothing
+151,1,34,Harry Potter vol-1,Books
+152,1,35,Monitor,Electronics
+153,2,35,Jogging shoes,Clothing
+154,1,36,Harry Potter vol-5,Books
+155,1,36,Jogging shoes,Clothing
+156,1,37,Harry Potter vol-5,Books
+157,1,37,Jogging shoes,Clothing
+158,1,38,Over_head headset,Electronics
+159,1,38,Pen Drive - 32 GB,Electronics
+160,1,38,Rice bag,Provision
+161,1,39,,Clothing
+162,1,40,Cauliflower,Vegetables
+163,1,40,Rice bag,Provision
+164,1,40,Bitter gaurd,Clothing
+165,1,41,Harry Potter vol-5,Books
+166,1,41,Game of thrones,Books
+167,1,42,Cauliflower,Vegetables
+168,1,42,Olive oil,Provision
+169,1,43,Tomato,Vegetables
+170,1,43,Cauliflower,Vegetables
+171,1,43,pepper,Provision
+172,1,43,Jogging shoes,Clothing
+173,1,44,Keyboard,Electronics
+174,1,44,Wireless Mouse,Electronics
+175,1,45,Banana,Fruits
+176,1,45,Strawberry,Fruits
+177,1,46,Cap,Clothing
+178,1,46,Black T-shirt,Clothing
+179,1,46,Jogging shoes,Clothing
+180,1,47,onion,Vegetables
+181,1,47,Tomato,Vegetables
+182,1,47,Rice bag,Provision
+183,1,48,Over_head headset,Electronics
+184,1,48,Jogging shoes,Clothing
+185,1,49,Over_head headset,Electronics
+186,1,49,Jogging shoes,Clothing
+187,1,50,Cap,Clothing
+188,1,51,Harry Potter vol-1,Books
+189,1,51,Mobile,Electronics
+190,1,51,Keyboard,Electronics
+191,1,52,Harry Potter vol-5,Books
+192,1,52,Apple,Fruits
+193,1,53,Carrot,Vegetables
+194,1,53,Rice bag,Provision
+195,1,54,Harry Potter vol-2,Books
+196,1,54,Harry Potter vol-3,Books
+197,1,55,Cap,Clothing
+198,1,55,Blue T-shirt,Clothing
+199,1,56,Apple,Fruits
+200,1,56,Sweet Corn,Vegetables
+201,1,56,Olive oil,Provision
+202,1,57,Harry Potter vol-2,Books
+203,1,57,Harry Potter vol-6,Books
+204,1,57,Game of thrones,Books
+205,1,57,Black T-shirt,Clothing
+206,1,58,Monitor,Electronics
+207,1,58,Black T-shirt,Clothing
+208,1,59,Apple,Fruits
+209,1,59,Banana,Fruits
+210,1,59,Strawberry,Fruits
+211,1,60,pepper,Provision
+212,1,60,Cap,Clothing
+213,1,61,Harry Potter vol-5,Books
+214,1,61,Black T-shirt,Clothing
+215,5,62,Rice bag,Provision
+216,2,63,The Pilgrims Progress,Books
+217,1,63,Harry Potter vol-1,Books
+218,1,64,Over_head headset,Electronics
+219,1,64,Blue T-shirt,Clothing
+220,1,65,Laptop,Electronics
+221,1,65,Mobile,Electronics
+222,1,66,The Pilgrims Progress,Books
+223,1,66,Tomato,Vegetables
+224,1,66,Olive oil,Provision
+225,1,67,onion,Vegetables
+226,1,67,Tomato,Vegetables
+227,1,67,Carrot,Vegetables
+228,1,68,Game of thrones,Books
+229,1,68,Over_head headset,Electronics
+230,1,68,Cap,Clothing
+231,1,69,The Pilgrims Progress,Books
+232,1,69,onion,Vegetables
+233,1,69,Tomato,Vegetables
+234,1,69,Jogging shoes,Clothing
+235,1,70,onion,Vegetables
+236,1,70,Cauliflower,Vegetables
+237,1,70,Carrot,Vegetables
+238,1,70,Black T-shirt,Clothing
+239,1,71,Harry Potter vol-1,Books
+240,1,71,Tomato,Vegetables
+241,1,71,Rice bag,Provision
+242,1,72,Over_head headset,Electronics
+243,1,72,Monitor,Electronics
+244,1,72,Watermelon,Fruits
+245,1,72,Olive oil,Provision
+246,1,73,Harry Potter vol-2,Books
+247,1,73,onion,Vegetables
+248,1,73,Tomato,Vegetables
+249,1,73,Cap,Clothing
+250,1,74,Strawberry,Fruits
+251,1,74,Watermelon,Fruits
+252,1,74,onion,Vegetables
+253,1,74,Tomato,Vegetables
+254,1,74,Olive oil,Provision
+255,1,75,Harry Potter vol-6,Books
+256,1,75,Harry Potter vol-7,Books
+257,1,75,Pen Drive - 32 GB,Electronics
+258,1,75,Banana,Fruits
+259,1,76,Harry Potter vol-6,Books
+260,1,76,Harry Potter vol-7,Books
+261,1,76,Pen Drive - 32 GB,Electronics
+262,1,76,Banana,Fruits
+263,1,77,onion,Vegetables
+264,1,77,Tomato,Vegetables
+265,1,77,Rice bag,Provision
+266,1,77,pepper,Provision
+267,1,78,The Pilgrims Progress,Books
+268,1,78,Cap,Clothing
+269,1,79,Harry Potter vol-2,Books
+270,1,79,Monitor,Electronics
+271,1,79,pepper,Provision
+272,2,79,Cap,Clothing
+273,1,79,Black T-shirt,Clothing
+274,3,80,onion,Vegetables
+275,3,80,Tomato,Vegetables
+276,2,80,Cauliflower,Vegetables
+277,3,80,Carrot,Vegetables
+278,3,80,Bitter gaurd,Clothing
+279,1,81,Bible,Books
+280,1,81,The Pilgrims Progress,Books
+281,2,82,Over_head headset,Electronics
+282,1,82,Monitor,Electronics
+283,2,82,Laptop,Electronics
+284,1,82,Mobile,Electronics
+285,1,83,The Pilgrims Progress,Books
+286,1,83,Harry Potter vol-1,Books
+287,1,83,Harry Potter vol-3,Books
+288,1,83,Harry Potter vol-4,Books
+289,1,83,onion,Vegetables
+290,1,83,Tomato,Vegetables
+291,1,84,Cap,Clothing
+292,2,84,Black T-shirt,Clothing
+293,1,84,Jogging shoes,Clothing
+294,1,85,onion,Vegetables
+295,1,85,Tomato,Vegetables
+296,1,85,Cap,Clothing
+297,1,85,Bitter gaurd,Clothing
+298,1,86,Monitor,Electronics
+299,1,86,Laptop,Electronics
+300,1,87,Apple,Fruits
+301,1,87,Strawberry,Fruits
+302,1,87,Watermelon,Fruits
+303,1,88,The Pilgrims Progress,Books
+304,1,88,Harry Potter vol-3,Books
+305,1,88,Harry Potter vol-6,Books
+306,1,88,Olive oil,Provision
+307,1,89,Rice bag,Provision
+308,1,89,pepper,Provision
+309,1,90,The Pilgrims Progress,Books
+310,1,90,Harry Potter vol-3,Books
+311,1,90,Black T-shirt,Clothing
+312,1,91,The Pilgrims Progress,Books
+313,1,91,onion,Vegetables
+314,1,91,Tomato,Vegetables
+315,1,92,Monitor,Electronics
+316,1,92,Laptop,Electronics
+317,1,92,Cap,Clothing
+318,1,92,Jogging shoes,Clothing
+319,1,93,The Pilgrims Progress,Books
+320,1,93,Harry Potter vol-1,Books
+321,1,93,Strawberry,Fruits
+322,1,93,Watermelon,Fruits
+323,1,93,Cap,Clothing
+324,1,93,Black T-shirt,Clothing
+325,1,94,Monitor,Electronics
+326,1,94,Laptop,Electronics
+327,1,94,Banana,Fruits
+328,1,94,Olive oil,Provision
+329,1,95,The Pilgrims Progress,Books
+330,1,95,Apple,Fruits
+331,1,95,Tomato,Vegetables
+332,1,95,Black T-shirt,Clothing
+333,1,95,Bitter gaurd,Clothing
+334,1,96,Wireless Mouse,Electronics
+335,1,96,onion,Vegetables
+336,1,96,Tomato,Vegetables
+337,1,96,Black T-shirt,Clothing
+338,1,96,Bitter gaurd,Clothing
+339,1,97,Harry Potter vol-2,Books
+340,1,97,Harry Potter vol-3,Books
+341,1,97,Harry Potter vol-4,Books
+342,1,97,Rice bag,Provision
+343,2,98,Monitor,Electronics
+344,1,98,Laptop,Electronics
+345,1,98,Keyboard,Electronics
+346,1,98,Tomato,Vegetables
+347,1,98,Rice bag,Provision
+348,1,99,Black T-shirt,Clothing
+349,2,99,Blue T-shirt,Clothing
+350,1,100,The Pilgrims Progress,Books
+351,1,100,Harry Potter vol-1,Books
+352,1,100,Over_head headset,Electronics
+353,1,100,Monitor,Electronics
+354,1,101,The Pilgrims Progress,Books
+355,1,101,Harry Potter vol-1,Books
+356,1,101,Carrot,Vegetables
+357,1,102,Apple,Fruits
+358,1,102,Banana,Fruits
+359,1,102,Grapes,Fruits
+360,1,103,Game of thrones,Books
+361,1,104,Rice bag,Provision
+362,1,105,Apple,Fruits
+363,1,105,Banana,Fruits
+364,1,105,Grapes,Fruits
+365,1,105,onion,Vegetables
+366,1,105,Tomato,Vegetables
+367,1,105,Sweet Corn,Vegetables
+368,1,106,Keyboard,Electronics
+369,1,106,Wireless Mouse,Electronics
+370,1,107,Strawberry,Fruits
+371,1,108,Bible,Books
+372,1,108,Grapes,Fruits
+373,1,108,Sweet Corn,Vegetables
+374,1,109,Bible,Books
+375,1,109,Grapes,Fruits
+376,1,109,Sweet Corn,Vegetables
+377,1,110,Jogging shoes,Clothing
+378,1,111,Game of thrones,Books
+379,1,111,Apple,Fruits
+380,1,111,Cap,Clothing
+381,1,112,Mobile,Electronics
+382,1,113,Bible,Books
+383,1,113,Grapes,Fruits
+384,1,113,Sweet Corn,Vegetables
+385,1,114,onion,Vegetables
+386,1,114,Tomato,Vegetables
+387,1,114,Cauliflower,Vegetables
+388,1,114,Carrot,Vegetables
+389,1,115,Over_head headset,Electronics
+390,1,115,Monitor,Electronics
+391,1,115,Laptop,Electronics
+392,1,115,Mobile,Electronics
+393,1,116,Apple,Fruits
+394,1,116,Grapes,Fruits
+395,1,117,Apple,Fruits
+396,1,117,Grapes,Fruits
+397,2,118,Olive oil,Provision
+398,2,118,Rice bag,Provision
+399,2,118,pepper,Provision
+400,1,119,Apple,Fruits
+401,1,119,Banana,Fruits
+402,1,119,Grapes,Fruits
+403,1,119,Strawberry,Fruits
+404,1,119,Watermelon,Fruits
+405,1,120,Apple,Fruits
+406,1,120,Cap,Clothing
+407,1,120,Black T-shirt,Clothing
+408,1,120,Blue T-shirt,Clothing
+409,1,120,Jogging shoes,Clothing
+410,1,121,The Pilgrims Progress,Books
+411,1,121,Harry Potter vol-1,Books
+412,1,122,Mobile,Electronics
+413,1,122,Keyboard,Electronics
+414,1,123,The Pilgrims Progress,Books
+415,1,123,Olive oil,Provision
+416,1,124,onion,Vegetables
+417,1,124,Tomato,Vegetables
+418,1,124,Carrot,Vegetables
+419,1,125,onion,Vegetables
+420,1,125,Tomato,Vegetables
+421,1,125,Carrot,Vegetables
+422,1,126,Olive oil,Provision
+423,1,126,Rice bag,Provision
+424,1,127,Over_head headset,Electronics
+425,1,127,Monitor,Electronics
+426,1,127,Laptop,Electronics
+427,1,127,Black T-shirt,Clothing
+428,1,128,The Pilgrims Progress,Books
+429,1,128,Harry Potter vol-1,Books
+430,1,129,The Pilgrims Progress,Books
+431,1,129,Harry Potter vol-6,Books
+432,1,130,The Pilgrims Progress,Books
+433,1,130,Monitor,Electronics
+434,1,130,Laptop,Electronics
+435,1,130,Banana,Fruits
+436,1,130,Grapes,Fruits
+437,1,131,Over_head headset,Electronics
+438,1,131,Apple,Fruits
+439,1,131,onion,Vegetables
+440,1,132,pepper,Provision
+441,1,133,onion,Vegetables
+442,1,133,Tomato,Vegetables
+443,3,133,Bitter gaurd,Clothing
+444,1,134,pepper,Provision
+445,1,134,Cap,Clothing
+446,1,135,onion,Vegetables
+447,1,135,Cauliflower,Vegetables
+448,1,136,onion,Vegetables
+449,1,136,Tomato,Vegetables
+450,1,137,The Pilgrims Progress,Books
+451,1,137,Black T-shirt,Clothing
+452,1,138,Banana,Fruits
+453,1,138,Strawberry,Fruits
+454,1,139,The Pilgrims Progress,Books
+455,1,139,onion,Vegetables
+456,1,140,Olive oil,Provision
+457,1,141,The Pilgrims Progress,Books
+458,1,141,Harry Potter vol-4,Books
+459,1,142,onion,Vegetables
+460,1,142,Tomato,Vegetables
+461,1,143,Over_head headset,Electronics
+462,1,143,Monitor,Electronics
+463,1,144,The Pilgrims Progress,Books
+464,1,145,Olive oil,Provision
+465,1,145,Rice bag,Provision
+466,1,146,Tomato,Vegetables
+467,1,147,Tomato,Vegetables
+468,1,146,Olive oil,Provision
+469,1,147,Olive oil,Provision
+470,1,148,The Pilgrims Progress,Books
+471,1,148,Game of thrones,Books
+472,1,149,Wireless Mouse,Electronics
+473,1,149,Pen Drive - 32 GB,Electronics
+474,1,150,Harry Potter vol-4,Books
+475,1,150,Over_head headset,Electronics
+476,1,151,Tomato,Vegetables
+477,1,151,Sweet Corn,Vegetables
+478,1,151,Cauliflower,Vegetables
+479,1,152,Tomato,Vegetables
+480,1,152,Sweet Corn,Vegetables
+481,1,152,Cauliflower,Vegetables
+482,1,153,Rice bag,Provision
+483,1,153,pepper,Provision
+484,8,154,Bitter gaurd,Clothing
+485,1,155,onion,Vegetables
+486,1,155,Tomato,Vegetables
+487,1,155,Carrot,Vegetables
+488,1,156,Apple,Fruits
+489,1,156,Banana,Fruits
+490,2,156,Cap,Clothing
+491,1,157,Over_head headset,Electronics
+492,1,157,Laptop,Electronics
+493,1,157,Mobile,Electronics
+494,1,157,Keyboard,Electronics
+495,1,157,Mouse,Electronics
+496,1,157,Wireless Mouse,Electronics
+497,1,157,Pen Drive - 32 GB,Electronics
+498,1,158,Monitor,Electronics
+499,1,159,onion,Vegetables
+500,1,159,Tomato,Vegetables
+501,1,159,Bitter gaurd,Clothing
+502,1,160,The Pilgrims Progress,Books
+503,1,160,Harry Potter vol-1,Books
+504,1,160,Harry Potter vol-2,Books
+505,1,161,The Pilgrims Progress,Books
+506,1,161,Over_head headset,Electronics
+507,1,162,Pen Drive - 32 GB,Electronics
+508,1,163,Apple,Fruits
+509,1,163,onion,Vegetables
+510,1,163,Tomato,Vegetables
+511,1,163,Carrot,Vegetables
+512,2,164,Rice bag,Provision
+513,1,165,The Pilgrims Progress,Books
+514,1,165,Apple,Fruits
+515,1,166,onion,Vegetables
+516,1,166,pepper,Provision
+517,1,167,onion,Vegetables
+518,1,167,Tomato,Vegetables
+519,1,167,Cauliflower,Vegetables
+520,2,167,Olive oil,Provision
+521,1,167,Rice bag,Provision
+522,2,168,Harry Potter vol-2,Books
+523,4,169,Cap,Clothing
+524,4,169,Black T-shirt,Clothing
+525,1,170,Olive oil,Provision
+526,1,170,Jogging shoes,Clothing
+527,1,171,Monitor,Electronics
+528,1,171,Apple,Fruits
+529,1,172,Bible,Books
+530,1,172,Harry Potter vol-1,Books
+531,2,173,Harry Potter vol-1,Books
+532,1,173,Harry Potter vol-2,Books
+533,2,174,onion,Vegetables
+534,2,174,Tomato,Vegetables
+535,2,174,Sweet Corn,Vegetables
+536,2,174,Cauliflower,Vegetables
+537,2,174,Carrot,Vegetables
+538,2,174,Bitter gaurd,Clothing
+539,1,175,Over_head headset,Electronics
+540,1,175,Wireless Mouse,Electronics
+541,11,176,Apple,Fruits
+542,14,176,Grapes,Fruits
+543,1,177,Black T-shirt,Clothing
+544,1,178,Bible,Books
+545,1,178,The Pilgrims Progress,Books
+546,1,178,Tomato,Vegetables
+547,1,179,Harry Potter vol-1,Books
+548,1,179,Over_head headset,Electronics
+549,1,180,Olive oil,Provision
+550,1,181,Monitor,Electronics
+551,1,181,Laptop,Electronics
+552,1,181,Wireless Mouse,Electronics
+553,1,181,Pen Drive - 32 GB,Electronics
+554,1,182,onion,Vegetables
+555,1,182,Sweet Corn,Vegetables
+556,1,183,Banana,Fruits
+557,1,184,Black T-shirt,Clothing
+558,1,185,Harry Potter vol-5,Books
+559,1,186,Over_head headset,Electronics
+560,1,187,Bible,Books
+561,1,187,The Pilgrims Progress,Books
+562,1,187,Harry Potter vol-1,Books
+563,1,188,Sweet Corn,Vegetables
+564,1,189,onion,Vegetables
+565,1,189,Tomato,Vegetables
+566,1,189,Sweet Corn,Vegetables
+567,1,189,Cauliflower,Vegetables
+568,1,190,onion,Vegetables
+569,1,189,Carrot,Vegetables
+570,1,190,Tomato,Vegetables
+571,1,189,Bitter gaurd,Clothing
+572,1,190,Sweet Corn,Vegetables
+573,1,190,Cauliflower,Vegetables
+574,1,190,Carrot,Vegetables
+575,1,190,Bitter gaurd,Clothing
+576,1,191,Monitor,Electronics
+577,1,191,Laptop,Electronics
+578,1,192,Cap,Clothing
+579,1,192,Blue T-shirt,Clothing
+580,1,193,Olive oil,Provision
+581,2,193,Rice bag,Provision
+582,2,193,pepper,Provision
+583,1,194,Black T-shirt,Clothing
+584,1,195,Jogging shoes,Clothing
+585,1,196,Olive oil,Provision
+586,1,196,pepper,Provision
+587,1,197,Bible,Books
+588,1,197,The Pilgrims Progress,Books
+589,1,197,Harry Potter vol-1,Books
+590,1,197,Harry Potter vol-2,Books
+591,1,197,Harry Potter vol-3,Books
+592,1,197,Harry Potter vol-4,Books
+593,1,197,Harry Potter vol-5,Books
+594,1,197,Harry Potter vol-6,Books
+595,1,197,Harry Potter vol-7,Books
+596,1,197,Game of thrones,Books
+597,1,198,Laptop,Electronics
+598,1,199,Apple,Fruits
+599,1,199,Banana,Fruits
+600,1,199,Grapes,Fruits
+601,1,200,Harry Potter vol-1,Books
+602,1,201,Cap,Clothing
+603,1,201,Blue T-shirt,Clothing
+604,1,202,Over_head headset,Electronics
+605,1,202,Monitor,Electronics
+606,1,202,Laptop,Electronics
+607,1,202,Mobile,Electronics
+608,1,202,Keyboard,Electronics
+609,1,202,Mouse,Electronics
+610,1,202,Wireless Mouse,Electronics
+611,1,202,Pen Drive - 32 GB,Electronics
+612,1,203,Cap,Clothing
+613,1,204,Tomato,Vegetables
+614,1,204,Sweet Corn,Vegetables
+615,1,205,Olive oil,Provision
+616,1,206,Carrot,Vegetables
+617,1,206,Bitter gaurd,Clothing
+618,1,207,Harry Potter vol-6,Books
+619,1,207,Harry Potter vol-7,Books
+620,1,208,Cap,Clothing
+621,1,209,Banana,Fruits
+622,1,210,Banana,Fruits
+623,1,210,Grapes,Fruits
+624,1,211,Keyboard,Electronics
+625,1,211,Mouse,Electronics
+626,1,212,Tomato,Vegetables
+627,1,213,pepper,Provision
+628,1,214,Olive oil,Provision
+629,1,214,Rice bag,Provision
+630,1,215,The Pilgrims Progress,Books
+631,1,215,Harry Potter vol-1,Books
+632,1,216,onion,Vegetables
+633,1,216,Tomato,Vegetables
+634,1,216,Sweet Corn,Vegetables
+635,1,217,Tomato,Vegetables
+636,1,218,onion,Vegetables
+637,1,218,Cauliflower,Vegetables
+638,1,219,Cap,Clothing
+639,1,219,Black T-shirt,Clothing
+640,1,219,Blue T-shirt,Clothing
+641,1,219,Jogging shoes,Clothing
+642,1,220,onion,Vegetables
+643,1,220,Tomato,Vegetables
+644,1,221,onion,Vegetables
+645,1,221,Tomato,Vegetables
+646,1,222,Rice bag,Provision
+647,1,223,The Pilgrims Progress,Books
+648,1,223,Harry Potter vol-1,Books
+649,1,224,Black T-shirt,Clothing
+650,1,224,Blue T-shirt,Clothing
+651,1,225,Monitor,Electronics
+652,1,225,Laptop,Electronics
+653,1,226,Harry Potter vol-3,Books
+654,1,227,onion,Vegetables
+655,1,227,Tomato,Vegetables
+656,1,228,Olive oil,Provision
+657,1,228,Rice bag,Provision
+658,1,229,Cauliflower,Vegetables
+659,2,229,Carrot,Vegetables
+660,1,230,Monitor,Electronics
+661,1,230,Laptop,Electronics
+662,1,231,Over_head headset,Electronics
+663,1,231,Monitor,Electronics
+664,1,232,onion,Vegetables
+665,1,232,Tomato,Vegetables
+666,1,232,Sweet Corn,Vegetables
+667,1,233,Tomato,Vegetables
+668,1,233,Sweet Corn,Vegetables
+669,1,234,Mobile,Electronics
+670,1,235,Olive oil,Provision
+671,1,235,pepper,Provision
+672,1,236,Cap,Clothing
+673,1,237,Tomato,Vegetables
+674,1,237,Sweet Corn,Vegetables
+675,1,238,The Pilgrims Progress,Books
+676,1,239,Apple,Fruits
+677,1,239,Banana,Fruits
+678,1,239,Grapes,Fruits
+679,1,240,onion,Vegetables
+680,1,240,Tomato,Vegetables
+681,1,241,Tomato,Vegetables
+682,1,241,Sweet Corn,Vegetables
+683,1,242,Over_head headset,Electronics
+684,1,243,The Pilgrims Progress,Books
+685,1,244,Wireless Mouse,Electronics
+686,1,244,Pen Drive - 32 GB,Electronics
+687,1,245,Bible,Books
+688,1,246,Apple,Fruits
+689,1,246,Banana,Fruits
+690,1,247,Harry Potter vol-4,Books
+691,1,247,Harry Potter vol-7,Books
+692,1,248,Harry Potter vol-5,Books
+693,1,248,Harry Potter vol-6,Books
+694,1,249,onion,Vegetables
+695,1,249,Sweet Corn,Vegetables
+696,1,250,Cap,Clothing
+697,1,250,Black T-shirt,Clothing
+698,1,251,onion,Vegetables
+699,1,251,Tomato,Vegetables
+700,1,251,Sweet Corn,Vegetables
+701,1,252,The Pilgrims Progress,Books
+702,1,252,Harry Potter vol-3,Books
+703,1,253,onion,Vegetables
+704,1,253,Tomato,Vegetables
+705,1,254,Black T-shirt,Clothing
+706,1,255,Rice bag,Provision
+707,1,255,pepper,Provision
+708,1,256,Banana,Fruits
+709,1,256,Grapes,Fruits
+710,1,257,Olive oil,Provision
+711,1,257,Rice bag,Provision
+712,1,258,Monitor,Electronics
+713,1,259,Black T-shirt,Clothing
+714,1,259,Blue T-shirt,Clothing
+715,1,260,Cap,Clothing
+716,1,260,Black T-shirt,Clothing
+717,1,261,Over_head headset,Electronics
+718,1,261,Laptop,Electronics
+719,1,262,Apple,Fruits
+720,1,263,The Pilgrims Progress,Books
+721,1,263,Harry Potter vol-1,Books
+722,1,264,Over_head headset,Electronics
+723,1,265,Monitor,Electronics
+724,1,265,Laptop,Electronics
+725,1,266,onion,Vegetables
+726,1,266,Tomato,Vegetables
+727,1,267,The Pilgrims Progress,Books
+728,1,267,Harry Potter vol-1,Books
+729,1,268,The Pilgrims Progress,Books
+730,1,268,Harry Potter vol-1,Books
+731,1,269,The Pilgrims Progress,Books
+732,1,270,Sweet Corn,Vegetables
+733,1,270,Bitter gaurd,Clothing
+734,1,271,onion,Vegetables
+735,1,271,Cauliflower,Vegetables
+736,1,272,Tomato,Vegetables
+737,1,272,Sweet Corn,Vegetables
+738,1,273,Monitor,Electronics
+739,1,273,Laptop,Electronics
+740,1,274,Over_head headset,Electronics
+741,1,275,Banana,Fruits
+742,1,275,Grapes,Fruits
+743,1,276,onion,Vegetables
+744,1,276,Tomato,Vegetables
+745,1,276,Sweet Corn,Vegetables
+746,1,276,Bitter gaurd,Clothing
+747,1,277,Strawberry,Fruits
+748,1,277,Watermelon,Fruits
+749,1,278,Cap,Clothing
+750,1,278,Jogging shoes,Clothing
+751,1,279,Rice bag,Provision
+752,1,280,Over_head headset,Electronics
+753,1,280,Monitor,Electronics
+754,1,281,onion,Vegetables
+755,1,281,Cauliflower,Vegetables
+756,1,282,Over_head headset,Electronics
+757,1,282,Monitor,Electronics
+758,1,282,Laptop,Electronics
+759,1,283,Monitor,Electronics
+760,1,284,Tomato,Vegetables
+761,1,284,Carrot,Vegetables
+762,1,284,Bitter gaurd,Clothing
+763,1,285,Bible,Books
+764,1,285,The Pilgrims Progress,Books
+765,1,286,Apple,Fruits
+766,1,286,Banana,Fruits
+767,1,287,Cap,Clothing
+768,1,287,Black T-shirt,Clothing
+769,1,288,Black T-shirt,Clothing
+770,1,288,Blue T-shirt,Clothing
+771,1,289,Tomato,Vegetables
+772,1,289,Sweet Corn,Vegetables
+773,1,290,Grapes,Fruits
+774,1,291,pepper,Provision
+775,1,292,Over_head headset,Electronics
+776,1,292,Monitor,Electronics
+777,1,293,Olive oil,Provision
+778,1,293,pepper,Provision
+779,1,294,Tomato,Vegetables
+780,1,294,Carrot,Vegetables
+781,1,295,Cap,Clothing
+782,1,295,Black T-shirt,Clothing
+783,1,296,onion,Vegetables
+784,1,296,Tomato,Vegetables
+785,1,296,Cauliflower,Vegetables
+786,1,297,Blue T-shirt,Clothing
+787,1,298,Monitor,Electronics
+788,1,298,Laptop,Electronics
+789,1,299,Tomato,Vegetables
+790,1,299,Sweet Corn,Vegetables
+791,1,300,Apple,Fruits
+792,1,301,Bible,Books
+793,1,302,Monitor,Electronics
+794,1,302,Laptop,Electronics
+795,1,303,Over_head headset,Electronics
+796,1,303,Laptop,Electronics
+797,1,304,Cap,Clothing
+798,1,305,Rice bag,Provision
+799,1,305,pepper,Provision
+800,1,306,The Pilgrims Progress,Books
+801,1,306,Harry Potter vol-1,Books
+802,1,307,onion,Vegetables
+803,1,307,Tomato,Vegetables
+804,1,307,Cauliflower,Vegetables
+805,1,308,Bible,Books
+806,1,309,Wireless Mouse,Electronics
+807,1,309,Pen Drive - 32 GB,Electronics
+808,1,310,Cap,Clothing
+809,1,311,Tomato,Vegetables
+810,1,311,Bitter gaurd,Clothing
+811,1,312,Over_head headset,Electronics
+812,1,312,Monitor,Electronics
+813,1,313,Black T-shirt,Clothing
+814,1,314,Banana,Fruits
+815,1,314,Watermelon,Fruits
+816,1,315,onion,Vegetables
+817,1,315,Tomato,Vegetables
+818,1,316,Rice bag,Provision
+819,1,316,pepper,Provision
+820,1,317,Tomato,Vegetables
+821,1,318,Monitor,Electronics
+822,1,318,Laptop,Electronics
+823,1,319,Over_head headset,Electronics
+824,1,319,Monitor,Electronics
+825,1,320,Olive oil,Provision
+826,1,320,Rice bag,Provision
+827,1,321,Bible,Books
+828,1,321,Harry Potter vol-2,Books
+829,1,322,Monitor,Electronics
+830,1,322,Laptop,Electronics
+831,1,323,onion,Vegetables
+832,2,323,Tomato,Vegetables
+833,2,323,Sweet Corn,Vegetables
+834,1,324,onion,Vegetables
+835,1,324,Tomato,Vegetables
+836,1,324,Bitter gaurd,Clothing
+837,1,325,Banana,Fruits
+838,1,326,Jogging shoes,Clothing
+839,1,327,Rice bag,Provision
+840,1,327,pepper,Provision
+841,1,328,The Pilgrims Progress,Books
+842,1,329,Monitor,Electronics
+843,1,330,Tomato,Vegetables
+844,1,330,Sweet Corn,Vegetables
+845,1,331,Banana,Fruits
+846,1,332,Sweet Corn,Vegetables
+847,1,332,Carrot,Vegetables
+848,1,333,Monitor,Electronics
+849,1,334,Cap,Clothing
+850,1,334,Jogging shoes,Clothing
+851,1,335,Over_head headset,Electronics
+852,1,336,onion,Vegetables
+853,1,336,Cauliflower,Vegetables
+854,1,337,Black T-shirt,Clothing
+855,1,337,Blue T-shirt,Clothing
+856,1,338,Laptop,Electronics
+857,1,339,onion,Vegetables
+858,1,339,Tomato,Vegetables
+859,1,339,Sweet Corn,Vegetables
+860,1,340,Over_head headset,Electronics
+861,1,340,Monitor,Electronics
+862,1,341,Apple,Fruits
+863,1,341,Banana,Fruits
+864,1,341,Grapes,Fruits
+865,1,342,Cap,Clothing
+866,1,342,Black T-shirt,Clothing
+867,1,343,Banana,Fruits
+868,1,343,Strawberry,Fruits
+869,1,343,Watermelon,Fruits
+870,1,344,The Pilgrims Progress,Books
+871,1,344,Harry Potter vol-1,Books
+872,1,345,Apple,Fruits
+873,1,345,Banana,Fruits
+874,1,346,The Pilgrims Progress,Books
+875,1,347,Tomato,Vegetables
+876,1,347,Sweet Corn,Vegetables
+877,1,348,Black T-shirt,Clothing
+878,1,348,Blue T-shirt,Clothing
+879,1,349,onion,Vegetables
+880,1,349,Tomato,Vegetables
+881,1,350,Apple,Fruits
+882,1,350,Banana,Fruits
+883,1,351,Tomato,Vegetables
+884,1,351,Sweet Corn,Vegetables
+885,1,352,Over_head headset,Electronics
+886,1,353,Bible,Books
+887,1,353,The Pilgrims Progress,Books
+888,1,353,Harry Potter vol-1,Books
+889,1,354,Black T-shirt,Clothing
+890,1,354,Jogging shoes,Clothing
+891,1,355,Monitor,Electronics
+892,1,355,Keyboard,Electronics
+893,1,355,Wireless Mouse,Electronics
+894,1,356,Tomato,Vegetables
+895,1,357,onion,Vegetables
+896,1,357,Tomato,Vegetables
+897,1,358,Monitor,Electronics
+898,1,358,Laptop,Electronics
+899,1,359,Rice bag,Provision
+900,1,360,Over_head headset,Electronics
+901,1,361,Black T-shirt,Clothing
+902,1,361,Blue T-shirt,Clothing
+903,1,362,Tomato,Vegetables
+904,1,362,Carrot,Vegetables
+905,1,363,Game of thrones,Books
+906,1,364,Rice bag,Provision
+907,1,365,Tomato,Vegetables
+908,1,365,Sweet Corn,Vegetables
+909,1,366,Banana,Fruits
+910,1,366,Grapes,Fruits
+911,1,367,Banana,Fruits
+912,1,367,Grapes,Fruits
+913,1,368,Monitor,Electronics
+914,1,369,Blue T-shirt,Clothing
+915,1,370,Monitor,Electronics
+916,1,371,Tomato,Vegetables
+917,1,371,Sweet Corn,Vegetables
+918,1,372,onion,Vegetables
+919,1,373,Tomato,Vegetables
+920,1,373,Sweet Corn,Vegetables
+921,1,374,Black T-shirt,Clothing
+922,1,374,Blue T-shirt,Clothing
+923,1,375,Banana,Fruits
+924,1,375,Grapes,Fruits
+925,1,376,Over_head headset,Electronics
+926,1,376,Monitor,Electronics
+927,1,377,Laptop,Electronics
+928,1,378,The Pilgrims Progress,Books
+929,1,378,Harry Potter vol-1,Books
+930,1,379,Game of thrones,Books
+931,1,380,Over_head headset,Electronics
+932,1,380,Monitor,Electronics
+933,1,380,Keyboard,Electronics
+934,1,380,Mouse,Electronics
+935,1,381,Cap,Clothing
+936,2,381,Black T-shirt,Clothing
+937,1,381,Jogging shoes,Clothing
+938,1,382,Bible,Books
+939,2,383,Apple,Fruits
+940,2,383,Banana,Fruits
+941,2,383,Grapes,Fruits
+942,4,383,onion,Vegetables
+943,3,383,Tomato,Vegetables
+944,3,383,Carrot,Vegetables
+945,1,384,Olive oil,Provision
+946,1,384,Rice bag,Provision
+947,1,384,pepper,Provision
+948,1,385,Over_head headset,Electronics
+949,1,385,Mobile,Electronics
+950,1,386,The Pilgrims Progress,Books
+951,2,387,Pen Drive - 32 GB,Electronics
+952,1,388,Cap,Clothing
+953,1,388,Blue T-shirt,Clothing
+954,1,388,Jogging shoes,Clothing
+955,1,389,Bitter gaurd,Clothing
+956,1,390,Bible,Books
+957,1,390,The Pilgrims Progress,Books
+958,1,390,Harry Potter vol-1,Books
+959,1,390,Harry Potter vol-2,Books
+960,1,390,Harry Potter vol-3,Books
+961,1,390,Harry Potter vol-4,Books
+962,1,390,Harry Potter vol-5,Books
+963,1,390,Harry Potter vol-6,Books
+964,1,390,Harry Potter vol-7,Books
+965,1,390,Game of thrones,Books
+966,1,390,Over_head headset,Electronics
+967,1,390,Monitor,Electronics
+968,1,390,Laptop,Electronics
+969,1,390,Mobile,Electronics
+970,1,390,Keyboard,Electronics
+971,1,390,Mouse,Electronics
+972,1,390,Wireless Mouse,Electronics
+973,1,390,Pen Drive - 32 GB,Electronics
+974,1,390,onion,Vegetables
+975,1,390,Olive oil,Provision
+976,1,390,Rice bag,Provision
+977,1,390,pepper,Provision
+978,1,390,Cap,Clothing
+979,1,390,Black T-shirt,Clothing
+980,1,390,Blue T-shirt,Clothing
+981,1,390,Jogging shoes,Clothing
+982,1,391,Laptop,Electronics
+983,1,391,Wireless Mouse,Electronics
+984,1,392,Cap,Clothing
+985,2,392,Black T-shirt,Clothing
+986,1,392,Jogging shoes,Clothing
+987,1,393,Apple,Fruits
+988,1,393,Strawberry,Fruits
+989,1,393,Watermelon,Fruits
+990,1,393,Sweet Corn,Vegetables
+991,1,393,Cauliflower,Vegetables
+992,1,393,Bitter gaurd,Clothing
+993,1,394,onion,Vegetables
+994,1,394,Tomato,Vegetables
+995,1,394,Sweet Corn,Vegetables
+996,1,394,Cauliflower,Vegetables
+997,1,394,Carrot,Vegetables
+998,2,394,Bitter gaurd,Clothing
+999,1,395,Harry Potter vol-6,Books
+1000,1,396,Black T-shirt,Clothing
+1001,1,396,Jogging shoes,Clothing
+1002,1,397,Apple,Fruits
+1003,1,397,Banana,Fruits
+1004,1,397,Grapes,Fruits
+1005,1,397,Strawberry,Fruits
+1006,1,397,Watermelon,Fruits
+1007,1,398,onion,Vegetables
+1008,1,398,Tomato,Vegetables
+1009,1,398,Cauliflower,Vegetables
+1010,2,398,Olive oil,Provision
+1011,1,398,pepper,Provision
+1012,1,399,Harry Potter vol-6,Books
+1013,1,399,Harry Potter vol-7,Books
+1014,1,400,Cap,Clothing
+1015,1,400,Black T-shirt,Clothing
+1016,1,400,Blue T-shirt,Clothing
+1017,1,400,Jogging shoes,Clothing
+1018,1,401,The Pilgrims Progress,Books
+1019,2,402,Over_head headset,Electronics
+1020,1,403,onion,Vegetables
+1021,1,404,Apple,Fruits
+1022,1,405,Cap,Clothing
+1023,1,406,Olive oil,Provision
+1024,1,406,Rice bag,Provision
+1025,1,407,Keyboard,Electronics
+1026,1,408,Over_head headset,Electronics
+1027,1,408,Monitor,Electronics
+1028,1,409,onion,Vegetables
+1029,1,409,Cap,Clothing
+1030,1,410,The Pilgrims Progress,Books
+1031,1,410,Over_head headset,Electronics
+1032,1,410,Monitor,Electronics
+1033,1,411,Olive oil,Provision
+1034,1,411,pepper,Provision
+1035,1,412,onion,Vegetables
+1036,1,412,Tomato,Vegetables
+1037,1,412,Cauliflower,Vegetables
+1038,1,413,Rice bag,Provision
+1039,1,413,pepper,Provision
+1040,1,414,Apple,Fruits
+1041,1,415,Apple,Fruits
+1042,1,415,Banana,Fruits
+1043,1,415,Grapes,Fruits
+1044,1,416,Harry Potter vol-2,Books
+1045,1,417,Strawberry,Fruits
+1046,1,417,pepper,Provision
+1047,2,418,Monitor,Electronics
+1048,1,418,Laptop,Electronics
+1049,2,419,Bible,Books
+1050,1,419,Over_head headset,Electronics
+1051,1,419,Monitor,Electronics
+1052,1,420,Olive oil,Provision
+1053,1,421,Cap,Clothing
+1054,1,421,Black T-shirt,Clothing
+1055,1,422,Apple,Fruits
+1056,1,423,Rice bag,Provision
+1057,1,424,Over_head headset,Electronics
+1058,1,424,Monitor,Electronics
+1059,1,425,The Pilgrims Progress,Books
+1060,1,426,Over_head headset,Electronics
+1061,1,427,Over_head headset,Electronics
+1062,1,427,Monitor,Electronics
+1063,1,427,Laptop,Electronics
+1064,1,427,Mobile,Electronics
+1065,1,428,Monitor,Electronics
+1066,1,428,Laptop,Electronics
+1067,1,428,Cap,Clothing
+1068,1,429,Over_head headset,Electronics
+1069,1,429,Olive oil,Provision
+1070,1,430,Olive oil,Provision
+1071,1,430,Rice bag,Provision
+1072,1,430,pepper,Provision
+1073,1,431,onion,Vegetables
+1074,1,431,Tomato,Vegetables
+1075,1,431,Cauliflower,Vegetables
+1076,1,432,Cap,Clothing
+1077,1,432,Black T-shirt,Clothing
+1078,1,433,The Pilgrims Progress,Books
+1079,1,433,Harry Potter vol-1,Books
+1080,1,433,Harry Potter vol-2,Books
+1081,1,434,The Pilgrims Progress,Books
+1082,1,434,Harry Potter vol-1,Books
+1083,1,434,Harry Potter vol-2,Books
+1084,1,434,Cap,Clothing
+1085,1,434,Black T-shirt,Clothing
+1086,1,435,Over_head headset,Electronics
+1087,1,435,Apple,Fruits
+1088,1,435,Banana,Fruits
+1089,1,436,Apple,Fruits
+1090,1,436,Banana,Fruits
+1091,1,436,Strawberry,Fruits
+1092,1,436,Watermelon,Fruits
+1093,1,436,onion,Vegetables
+1094,1,436,Tomato,Vegetables
+1095,1,437,The Pilgrims Progress,Books
+1096,1,437,Harry Potter vol-1,Books
+1097,1,438,Olive oil,Provision
+1098,1,438,Rice bag,Provision
+1099,1,438,pepper,Provision
+1100,1,439,The Pilgrims Progress,Books
+1101,1,439,Harry Potter vol-1,Books
+1102,1,439,Harry Potter vol-2,Books
+1103,1,440,Apple,Fruits
+1104,1,440,Banana,Fruits
+1105,1,440,Grapes,Fruits
+1106,1,440,Strawberry,Fruits
+1107,1,441,Apple,Fruits
+1108,1,441,Banana,Fruits
+1109,1,441,Grapes,Fruits
+1110,1,441,Strawberry,Fruits
+1111,1,442,The Pilgrims Progress,Books
+1112,1,442,Harry Potter vol-1,Books
+1113,1,442,Apple,Fruits
+1114,1,443,onion,Vegetables
+1115,1,443,Tomato,Vegetables
+1116,1,443,Olive oil,Provision
+1117,1,443,Rice bag,Provision
+1118,1,444,onion,Vegetables
+1119,1,444,Bitter gaurd,Clothing
+1120,2,445,Olive oil,Provision
+1121,1,445,Rice bag,Provision
+1122,1,445,pepper,Provision
+1123,1,446,Harry Potter vol-1,Books
+1124,1,447,Olive oil,Provision
+1125,1,447,Rice bag,Provision
+1126,1,448,The Pilgrims Progress,Books
+1127,1,448,Harry Potter vol-1,Books
+1128,1,449,Apple,Fruits
+1129,1,449,Banana,Fruits
+1130,1,449,onion,Vegetables
+1131,1,449,Tomato,Vegetables
+1132,1,449,Cauliflower,Vegetables
+1133,1,449,Carrot,Vegetables
+1134,1,449,Bitter gaurd,Clothing
+1135,1,450,Monitor,Electronics
+1136,1,450,Laptop,Electronics
+1137,1,450,Mobile,Electronics
+1138,1,450,Keyboard,Electronics
+1139,1,451,onion,Vegetables
+1140,1,451,Tomato,Vegetables
+1141,1,451,Olive oil,Provision
+1142,1,451,Rice bag,Provision
+1143,1,452,Cap,Clothing
+1144,1,453,The Pilgrims Progress,Books
+1145,1,453,Harry Potter vol-1,Books
+1146,1,453,Harry Potter vol-3,Books
+1147,1,453,Pen Drive - 32 GB,Electronics
+1148,1,454,onion,Vegetables
+1149,1,454,Olive oil,Provision
+1150,1,455,The Pilgrims Progress,Books
+1151,1,455,Harry Potter vol-1,Books
+1152,1,455,Over_head headset,Electronics
+1153,1,455,Monitor,Electronics
+1154,1,456,The Pilgrims Progress,Books
+1155,1,456,Harry Potter vol-2,Books
+1156,1,457,onion,Vegetables
+1157,1,457,Tomato,Vegetables
+1158,1,457,Cauliflower,Vegetables
+1159,2,457,Carrot,Vegetables
+1160,1,458,Cap,Clothing
+1161,1,458,Black T-shirt,Clothing
+1162,1,459,The Pilgrims Progress,Books
+1163,1,459,Harry Potter vol-2,Books
+1164,1,459,Harry Potter vol-7,Books
+1165,1,459,Game of thrones,Books
+1166,1,460,onion,Vegetables
+1167,1,460,Tomato,Vegetables
+1168,1,460,Olive oil,Provision
+1169,1,460,Rice bag,Provision
+1170,1,461,Over_head headset,Electronics
+1171,1,461,Monitor,Electronics
+1172,1,461,Laptop,Electronics
+1173,1,462,onion,Vegetables
+1174,1,462,Tomato,Vegetables
+1175,9,462,Bitter gaurd,Clothing
+1176,1,463,Game of thrones,Books
+1177,1,463,Over_head headset,Electronics
+1178,1,464,The Pilgrims Progress,Books
+1179,1,464,Harry Potter vol-4,Books
+1180,1,464,Harry Potter vol-6,Books
+1181,1,464,Black T-shirt,Clothing
+1182,1,464,Blue T-shirt,Clothing
+1183,1,465,onion,Vegetables
+1184,1,465,Tomato,Vegetables
+1185,1,466,Monitor,Electronics
+1186,1,466,Wireless Mouse,Electronics
+1187,1,467,Apple,Fruits
+1188,1,467,Banana,Fruits
+1189,1,467,onion,Vegetables
+1190,4,467,Cauliflower,Vegetables
+1191,1,468,Monitor,Electronics
+1192,1,468,Jogging shoes,Clothing
+1193,1,469,Rice bag,Provision
+1194,1,469,pepper,Provision
+1195,1,470,Monitor,Electronics
+1196,1,470,Olive oil,Provision
+1197,1,471,Monitor,Electronics
+1198,1,471,Mobile,Electronics
+1199,3,471,Banana,Fruits
+1200,1,472,Strawberry,Fruits
+1201,1,472,Watermelon,Fruits
+1202,1,473,Cauliflower,Vegetables
+1203,1,473,Carrot,Vegetables
+1204,1,473,Bitter gaurd,Clothing
+1205,1,474,Harry Potter vol-1,Books
+1206,1,474,Over_head headset,Electronics
+1207,1,474,Keyboard,Electronics
+1208,1,475,Olive oil,Provision
+1209,1,476,Tomato,Vegetables
+1210,1,476,Cauliflower,Vegetables
+1211,1,476,Carrot,Vegetables
+1212,1,477,Cap,Clothing
+1213,1,477,Black T-shirt,Clothing
+1214,1,477,Jogging shoes,Clothing
+1215,1,478,Cap,Clothing
+1216,1,478,Black T-shirt,Clothing
+1217,1,478,Jogging shoes,Clothing
+1218,1,479,Harry Potter vol-6,Books
+1219,1,479,Harry Potter vol-7,Books
+1220,1,479,Game of thrones,Books
+1221,1,480,Strawberry,Fruits
+1222,1,480,Watermelon,Fruits
+1223,1,480,onion,Vegetables
+1224,1,480,Tomato,Vegetables
+1225,1,481,The Pilgrims Progress,Books
+1226,1,481,Harry Potter vol-3,Books
+1227,1,481,Harry Potter vol-7,Books
+1228,1,481,Game of thrones,Books
+1229,1,482,Olive oil,Provision
+1230,1,482,Rice bag,Provision
+1231,1,482,pepper,Provision
+1232,1,483,The Pilgrims Progress,Books
+1233,1,483,Harry Potter vol-1,Books
+1234,2,483,Harry Potter vol-2,Books
+1235,1,483,onion,Vegetables
+1236,1,483,Tomato,Vegetables
+1237,1,484,onion,Vegetables
+1238,1,484,Tomato,Vegetables
+1239,1,484,Cauliflower,Vegetables
+1240,1,484,Olive oil,Provision
+1241,1,484,pepper,Provision
+1242,2,485,Tomato,Vegetables
+1243,1,485,Cap,Clothing
+1244,1,485,Black T-shirt,Clothing
+1245,1,486,Banana,Fruits
+1246,2,486,Strawberry,Fruits
+1247,1,486,Watermelon,Fruits
+1248,1,487,Blue T-shirt,Clothing
+1249,1,487,Jogging shoes,Clothing
+1250,1,488,The Pilgrims Progress,Books
+1251,2,488,Harry Potter vol-2,Books
+1252,2,489,The Pilgrims Progress,Books
+1253,1,489,Harry Potter vol-1,Books
+1254,1,489,onion,Vegetables
+1255,1,489,Tomato,Vegetables
+1256,1,490,Cap,Clothing
+1257,1,490,Black T-shirt,Clothing
+1258,1,491,Over_head headset,Electronics
+1259,1,491,Monitor,Electronics
+1260,1,491,Laptop,Electronics
+1261,1,491,Mobile,Electronics
+1262,1,491,Keyboard,Electronics
+1263,1,491,Tomato,Vegetables
+1264,1,491,Cauliflower,Vegetables
+1265,1,491,Carrot,Vegetables
+1266,1,491,Bitter gaurd,Clothing
+1267,1,492,Apple,Fruits
+1268,1,492,Banana,Fruits
+1269,3,492,Strawberry,Fruits
+1270,1,492,Watermelon,Fruits
+1271,1,493,The Pilgrims Progress,Books
+1272,1,493,Harry Potter vol-1,Books
+1273,1,493,Harry Potter vol-2,Books
+1274,1,494,Olive oil,Provision
+1275,1,494,Rice bag,Provision
+1276,1,494,pepper,Provision
+1277,1,495,onion,Vegetables
+1278,1,495,Tomato,Vegetables
+1279,1,496,onion,Vegetables
+1280,1,496,Tomato,Vegetables
+1281,1,496,Cauliflower,Vegetables
+1282,1,496,Carrot,Vegetables
+1283,1,497,The Pilgrims Progress,Books
+1284,1,497,Harry Potter vol-4,Books
+1285,1,497,Harry Potter vol-5,Books
+1286,1,498,Over_head headset,Electronics
+1287,1,498,Monitor,Electronics
+1288,1,499,Over_head headset,Electronics
+1289,1,500,Pen Drive - 32 GB,Electronics
+1290,1,500,Cap,Clothing
+1291,1,501,Bible,Books
+1292,5,501,Grapes,Fruits
+1293,7,501,Sweet Corn,Vegetables
+1294,1,502,Bible,Books
+1295,1,502,Rice bag,Provision
+1296,1,502,pepper,Provision
+1297,1,504,Olive oil,Provision
+1298,1,505,Cap,Clothing
+1299,1,505,Black T-shirt,Clothing
+1300,1,506,Over_head headset,Electronics
+1301,1,506,Monitor,Electronics
+1302,1,506,Laptop,Electronics
+1303,1,507,onion,Vegetables
+1304,1,507,Tomato,Vegetables
+1305,1,507,Cauliflower,Vegetables
+1306,1,507,Carrot,Vegetables
+1307,1,508,Apple,Fruits
+1308,1,508,Banana,Fruits
+1309,1,508,Strawberry,Fruits
+1310,1,509,Over_head headset,Electronics
+1311,1,510,The Pilgrims Progress,Books
+1312,1,510,Harry Potter vol-1,Books
+1313,1,510,Harry Potter vol-2,Books
+1314,1,511,Rice bag,Provision
+1315,1,511,pepper,Provision
+1316,1,512,Mobile,Electronics
+1317,1,513,Tomato,Vegetables
+1318,3,513,Bitter gaurd,Clothing
+1319,1,514,Cap,Clothing
+1320,1,514,Black T-shirt,Clothing
+1321,1,514,Blue T-shirt,Clothing
+1322,1,514,Jogging shoes,Clothing
+1323,1,515,Rice bag,Provision
+1324,1,516,The Pilgrims Progress,Books
+1325,1,516,Harry Potter vol-1,Books
+1326,1,517,Watermelon,Fruits
+1327,2,517,onion,Vegetables
+1328,1,517,Tomato,Vegetables
+1329,1,518,Rice bag,Provision
+1330,1,518,pepper,Provision
+1331,1,519,onion,Vegetables
+1332,1,519,Tomato,Vegetables
+1333,1,519,Cauliflower,Vegetables
+1334,1,520,Apple,Fruits
+1335,1,520,Banana,Fruits
+1336,1,520,Strawberry,Fruits
+1337,1,521,Monitor,Electronics
+1338,1,521,Laptop,Electronics
+1339,1,522,The Pilgrims Progress,Books
+1340,1,522,Harry Potter vol-1,Books
+1341,1,522,Harry Potter vol-2,Books
+1342,1,523,The Pilgrims Progress,Books
+1343,1,523,Over_head headset,Electronics
+1344,1,523,Monitor,Electronics
+1345,1,524,Olive oil,Provision
+1346,1,524,Rice bag,Provision
+1347,1,525,Over_head headset,Electronics
+1348,1,525,Monitor,Electronics
+1349,1,526,The Pilgrims Progress,Books
+1350,1,526,Over_head headset,Electronics
+1351,1,527,Olive oil,Provision
+1352,1,527,Rice bag,Provision
+1353,1,527,pepper,Provision
+1354,1,528,Olive oil,Provision
+1355,1,528,Rice bag,Provision
+1356,1,528,pepper,Provision
+1357,1,529,onion,Vegetables
+1358,1,529,Tomato,Vegetables
+1359,1,529,Bitter gaurd,Clothing
+1360,1,530,onion,Vegetables
+1361,1,530,Tomato,Vegetables
+1362,1,531,Over_head headset,Electronics
+1363,1,532,onion,Vegetables
+1364,1,532,Tomato,Vegetables
+1365,1,532,Bitter gaurd,Clothing
+1366,1,533,Monitor,Electronics
+1367,1,534,The Pilgrims Progress,Books
+1368,1,534,Harry Potter vol-1,Books
+1369,1,534,Harry Potter vol-2,Books
+1370,1,535,onion,Vegetables
+1371,1,535,Tomato,Vegetables
+1372,1,536,Over_head headset,Electronics
+1373,1,536,Monitor,Electronics
+1374,1,536,Laptop,Electronics
+1375,1,537,The Pilgrims Progress,Books
+1376,1,537,Harry Potter vol-1,Books
+1377,4,538,onion,Vegetables
+1378,1,538,Tomato,Vegetables
+1379,1,539,Apple,Fruits
+1380,1,539,Banana,Fruits
+1381,1,539,Carrot,Vegetables
+1382,1,539,Bitter gaurd,Clothing
+1383,1,540,Harry Potter vol-3,Books
+1384,1,540,Harry Potter vol-4,Books
+1385,1,541,onion,Vegetables
+1386,1,541,Tomato,Vegetables
+1387,1,541,Carrot,Vegetables
+1388,1,541,Cap,Clothing
+1389,1,542,onion,Vegetables
+1390,1,542,Tomato,Vegetables
+1391,1,542,Carrot,Vegetables
+1392,1,543,Cap,Clothing
+1393,1,543,Black T-shirt,Clothing
+1394,1,543,Blue T-shirt,Clothing
+1395,1,543,Jogging shoes,Clothing
+1396,1,544,Olive oil,Provision
+1397,1,544,Cap,Clothing
+1398,1,545,Olive oil,Provision
+1399,1,545,Rice bag,Provision
+1400,1,546,Apple,Fruits
+1401,2,546,Banana,Fruits
+1402,1,547,The Pilgrims Progress,Books
+1403,1,548,The Pilgrims Progress,Books
+1404,1,548,Harry Potter vol-1,Books
+1405,1,548,Harry Potter vol-2,Books
+1406,1,549,Over_head headset,Electronics
+1407,1,549,Monitor,Electronics
+1408,1,549,Wireless Mouse,Electronics
+1409,1,549,Pen Drive - 32 GB,Electronics
+1410,1,550,Laptop,Electronics
+1411,1,551,The Pilgrims Progress,Books
+1412,1,551,Harry Potter vol-7,Books
+1413,1,551,Game of thrones,Books
+1414,1,552,The Pilgrims Progress,Books
+1415,1,553,Olive oil,Provision
+1416,1,553,Rice bag,Provision
+1417,1,554,Apple,Fruits
+1418,1,554,Banana,Fruits
+1419,1,555,Apple,Fruits
+1420,1,555,Banana,Fruits
+1421,1,555,Grapes,Fruits
+1422,1,555,Strawberry,Fruits
+1423,1,555,Watermelon,Fruits
+1424,1,555,Tomato,Vegetables
+1425,1,555,Sweet Corn,Vegetables
+1426,1,555,Cauliflower,Vegetables
+1427,1,555,Carrot,Vegetables
+1428,2,556,onion,Vegetables
+1429,2,556,Tomato,Vegetables
+1430,2,556,Sweet Corn,Vegetables
+1431,2,556,Cauliflower,Vegetables
+1432,2,556,Carrot,Vegetables
+1433,2,556,Bitter gaurd,Clothing
+1434,2,557,onion,Vegetables
+1435,2,557,Tomato,Vegetables
+1436,2,557,Sweet Corn,Vegetables
+1437,2,557,Cauliflower,Vegetables
+1438,2,557,Carrot,Vegetables
+1439,2,557,Bitter gaurd,Clothing
+1440,1,558,onion,Vegetables
+1441,1,558,Tomato,Vegetables
+1442,2,559,Over_head headset,Electronics
+1443,2,559,Monitor,Electronics
+1444,1,560,onion,Vegetables
+1445,1,560,Tomato,Vegetables
+1446,1,560,Carrot,Vegetables
+1447,1,561,Olive oil,Provision
+1448,1,562,The Pilgrims Progress,Books
+1449,1,562,Harry Potter vol-1,Books
+1450,1,563,onion,Vegetables
+1451,1,563,Tomato,Vegetables
+1452,1,563,Sweet Corn,Vegetables
+1453,2,564,Over_head headset,Electronics
+1454,1,565,onion,Vegetables
+1455,1,565,Tomato,Vegetables
+1456,1,565,Rice bag,Provision
+1457,1,566,Monitor,Electronics
+1458,1,566,Laptop,Electronics
+1459,1,566,Apple,Fruits
+1460,1,566,Banana,Fruits
+1461,1,567,Cap,Clothing
+1462,1,567,Black T-shirt,Clothing
+1463,1,568,Monitor,Electronics
+1464,1,568,Olive oil,Provision
+1465,1,568,Rice bag,Provision
+1466,1,569,The Pilgrims Progress,Books
+1467,1,569,Over_head headset,Electronics
+1468,1,569,Monitor,Electronics
+1469,1,570,Olive oil,Provision
+1470,2,570,Rice bag,Provision
+1471,1,571,Over_head headset,Electronics
+1472,1,571,Tomato,Vegetables
+1473,1,571,Carrot,Vegetables
+1474,1,571,Bitter gaurd,Clothing
+1475,1,572,Monitor,Electronics
+1476,1,572,Cap,Clothing
+1477,1,572,Black T-shirt,Clothing
+1478,1,573,The Pilgrims Progress,Books
+1479,1,573,Harry Potter vol-1,Books
+1480,1,574,Olive oil,Provision
+1481,1,574,Rice bag,Provision
+1482,1,575,onion,Vegetables
+1483,1,575,Tomato,Vegetables
+1484,1,575,Sweet Corn,Vegetables
+1485,1,576,Apple,Fruits
+1486,1,576,Banana,Fruits
+1487,1,576,Cauliflower,Vegetables
+1488,2,577,Olive oil,Provision
+1489,1,578,onion,Vegetables
+1490,1,578,Tomato,Vegetables
+1491,1,579,Cap,Clothing
+1492,1,579,Black T-shirt,Clothing
+1493,1,580,The Pilgrims Progress,Books
+1494,1,580,Jogging shoes,Clothing
+1495,1,581,onion,Vegetables
+1496,1,581,Tomato,Vegetables
+1497,1,581,Blue T-shirt,Clothing
+1498,1,581,Jogging shoes,Clothing
+1499,1,582,Carrot,Vegetables
+1500,1,582,Olive oil,Provision
+1501,1,582,Rice bag,Provision
+1502,1,582,Bitter gaurd,Clothing
+1503,1,583,Olive oil,Provision
+1504,1,583,Rice bag,Provision
+1505,1,583,pepper,Provision
+1506,1,584,Cap,Clothing
+1507,1,584,Black T-shirt,Clothing
+1508,1,584,Blue T-shirt,Clothing
+1509,1,584,Jogging shoes,Clothing
+1510,1,585,onion,Vegetables
+1511,1,585,Tomato,Vegetables
+1512,1,585,Cauliflower,Vegetables
+1513,1,585,Carrot,Vegetables
+1514,1,585,Bitter gaurd,Clothing
+1515,1,586,Over_head headset,Electronics
+1516,1,586,Keyboard,Electronics
+1517,1,586,Wireless Mouse,Electronics
+1518,1,586,Pen Drive - 32 GB,Electronics
+1519,1,587,onion,Vegetables
+1520,1,587,Tomato,Vegetables
+1521,1,587,Cauliflower,Vegetables
+1522,1,588,Harry Potter vol-5,Books
+1523,1,588,Harry Potter vol-6,Books
+1524,1,588,Harry Potter vol-7,Books
+1525,1,588,Game of thrones,Books
+1526,1,589,The Pilgrims Progress,Books
+1527,1,590,Harry Potter vol-3,Books
+1528,1,590,Carrot,Vegetables
+1529,1,590,Bitter gaurd,Clothing
+1530,1,591,Olive oil,Provision
+1531,1,591,Rice bag,Provision
+1532,1,591,Cap,Clothing
+1533,1,591,Black T-shirt,Clothing
+1534,1,592,Over_head headset,Electronics
+1535,1,592,Monitor,Electronics
+1536,1,592,Wireless Mouse,Electronics
+1537,1,592,Pen Drive - 32 GB,Electronics
+1538,1,593,Watermelon,Fruits
+1539,5,593,onion,Vegetables
+1540,1,593,Tomato,Vegetables
+1541,1,593,Cauliflower,Vegetables
+1542,1,594,onion,Vegetables
+1543,1,594,Tomato,Vegetables
+1544,1,594,Bitter gaurd,Clothing
+1545,2,595,Olive oil,Provision
+1546,1,595,Rice bag,Provision
+1547,1,595,pepper,Provision
+1548,1,596,Over_head headset,Electronics
+1549,1,596,Monitor,Electronics
+1550,1,596,Mobile,Electronics
+1551,1,597,Monitor,Electronics
+1552,1,597,Cap,Clothing
+1553,1,597,Black T-shirt,Clothing
+1554,1,598,Game of thrones,Books
+1555,1,599,Olive oil,Provision
+1556,1,599,Rice bag,Provision
+1557,1,600,The Pilgrims Progress,Books
+1558,1,600,Harry Potter vol-1,Books
+1559,1,600,Harry Potter vol-3,Books
+1560,1,601,Banana,Fruits
+1561,1,601,onion,Vegetables
+1562,1,601,Tomato,Vegetables
+1563,4,601,Carrot,Vegetables
+1564,1,602,onion,Vegetables
+1565,1,602,Olive oil,Provision
+1566,1,602,Rice bag,Provision
+1567,1,603,Harry Potter vol-5,Books
+1568,2,603,Strawberry,Fruits
+1569,1,604,The Pilgrims Progress,Books
+1570,1,604,Game of thrones,Books
+1571,1,605,The Pilgrims Progress,Books
+1572,1,605,Cap,Clothing
+1573,1,606,Cap,Clothing
+1574,1,606,Black T-shirt,Clothing
+1575,1,606,Blue T-shirt,Clothing
+1576,1,606,Jogging shoes,Clothing
+1577,1,607,onion,Vegetables
+1578,1,607,Cauliflower,Vegetables
+1579,1,608,Bible,Books
+1580,1,608,The Pilgrims Progress,Books
+1581,1,608,Harry Potter vol-1,Books
+1582,1,609,onion,Vegetables
+1583,1,609,Tomato,Vegetables
+1584,1,609,Sweet Corn,Vegetables
+1585,1,609,Cauliflower,Vegetables
+1586,1,610,Bible,Books
+1587,1,610,The Pilgrims Progress,Books
+1588,1,610,Harry Potter vol-2,Books
+1589,1,610,Olive oil,Provision
+1590,1,610,Rice bag,Provision
+1591,1,611,Apple,Fruits
+1592,1,611,Banana,Fruits
+1593,1,612,Over_head headset,Electronics
+1594,1,613,Olive oil,Provision
+1595,1,613,Rice bag,Provision
+1596,1,614,Over_head headset,Electronics
+1597,1,614,Monitor,Electronics
+1598,1,615,The Pilgrims Progress,Books
+1599,1,615,onion,Vegetables
+1600,1,615,Tomato,Vegetables
+1601,1,616,Cap,Clothing
+1602,1,616,Black T-shirt,Clothing
+1603,1,617,The Pilgrims Progress,Books
+1604,1,617,Olive oil,Provision
+1605,1,618,Cauliflower,Vegetables
+1606,1,618,Carrot,Vegetables
+1607,1,618,Bitter gaurd,Clothing
+1608,5,619,Watermelon,Fruits
+1609,3,620,onion,Vegetables
+1610,1,620,Tomato,Vegetables
+1611,1,620,Bitter gaurd,Clothing
+1612,1,621,Cap,Clothing
+1613,1,621,Black T-shirt,Clothing
+1614,1,622,Monitor,Electronics
+1615,1,622,Laptop,Electronics
+1616,1,622,Mobile,Electronics
+1617,1,623,Olive oil,Provision
+1618,1,623,Rice bag,Provision
+1619,1,624,Apple,Fruits
+1620,1,624,Banana,Fruits
+1621,1,624,Watermelon,Fruits
+1622,1,625,Over_head headset,Electronics
+1623,1,625,Monitor,Electronics
+1624,1,625,Pen Drive - 32 GB,Electronics
+1625,1,626,Over_head headset,Electronics
+1626,1,626,Blue T-shirt,Clothing
+1627,1,627,Black T-shirt,Clothing
+1628,1,627,Jogging shoes,Clothing
+1629,1,632,onion,Vegetables
+1630,1,632,Tomato,Vegetables
+1631,1,633,Banana,Fruits
+1632,1,633,Strawberry,Fruits
+1633,1,634,Over_head headset,Electronics
+1634,1,635,Monitor,Electronics
+1635,1,636,The Pilgrims Progress,Books
+1636,1,636,Harry Potter vol-1,Books
+1637,1,637,The Pilgrims Progress,Books
+1638,1,637,Apple,Fruits
+1639,1,638,Olive oil,Provision
+1640,1,638,Rice bag,Provision
+1641,1,638,Cap,Clothing
+1642,1,639,The Pilgrims Progress,Books
+1643,1,640,Over_head headset,Electronics
+1644,1,640,Monitor,Electronics
+1645,1,641,onion,Vegetables
+1646,1,642,Apple,Fruits
+1647,1,642,Banana,Fruits
+1648,1,643,The Pilgrims Progress,Books
+1649,1,644,Over_head headset,Electronics
+1650,1,644,Monitor,Electronics
+1651,1,645,Bible,Books
+1652,1,646,onion,Vegetables
+1653,1,646,Tomato,Vegetables
+1654,1,647,Over_head headset,Electronics
+1655,1,647,Monitor,Electronics
+1656,1,647,Laptop,Electronics
+1657,1,648,Apple,Fruits
+1658,1,648,Banana,Fruits
+1659,1,649,Olive oil,Provision
+1660,1,649,Rice bag,Provision
+1661,1,650,onion,Vegetables
+1662,1,650,Sweet Corn,Vegetables
+1663,1,651,Over_head headset,Electronics
+1664,1,651,Monitor,Electronics
+1665,1,652,Laptop,Electronics
+1666,1,652,Mobile,Electronics
+1667,1,653,Cap,Clothing
+1668,1,653,Black T-shirt,Clothing
+1669,1,654,Jogging shoes,Clothing
+1670,1,655,Cap,Clothing
+1671,4,656,onion,Vegetables
+1672,1,657,Sweet Corn,Vegetables
+1673,1,658,Bible,Books
+1674,1,659,Cauliflower,Vegetables
+1675,1,660,Over_head headset,Electronics
+1676,1,661,Olive oil,Provision
+1677,1,661,Rice bag,Provision
+1678,1,661,pepper,Provision
+1679,1,662,Apple,Fruits
+1680,1,662,Banana,Fruits
+1681,1,663,Laptop,Electronics
+1682,1,664,Sweet Corn,Vegetables
+1683,1,664,Cauliflower,Vegetables
+1684,1,664,Bitter gaurd,Clothing
+1685,1,665,Sweet Corn,Vegetables
+1686,1,666,onion,Vegetables
+1687,1,666,Tomato,Vegetables
+1688,1,667,Over_head headset,Electronics
+1689,1,668,onion,Vegetables
+1690,1,668,Sweet Corn,Vegetables
+1691,1,669,onion,Vegetables
+1692,1,670,Cap,Clothing
+1693,1,671,The Pilgrims Progress,Books
+1694,1,672,Tomato,Vegetables
+1695,1,673,onion,Vegetables
+1696,1,673,Sweet Corn,Vegetables
+1697,1,674,Carrot,Vegetables
+1698,1,674,Bitter gaurd,Clothing
+1699,1,675,Cap,Clothing
+1700,1,675,Black T-shirt,Clothing
+1701,1,675,Blue T-shirt,Clothing
+1702,1,675,Jogging shoes,Clothing
+1703,1,676,Cap,Clothing
+1704,1,676,Black T-shirt,Clothing
+1705,1,677,The Pilgrims Progress,Books
+1706,1,677,Harry Potter vol-1,Books
+1707,1,678,The Pilgrims Progress,Books
+1708,1,678,Harry Potter vol-1,Books
+1709,1,678,Harry Potter vol-6,Books
+1710,1,679,Olive oil,Provision
+1711,1,679,Rice bag,Provision
+1712,1,679,pepper,Provision
+1713,1,680,Cap,Clothing
+1714,1,680,Black T-shirt,Clothing
+1715,1,680,Blue T-shirt,Clothing
+1716,1,681,onion,Vegetables
+1717,1,681,Tomato,Vegetables
+1718,1,681,Sweet Corn,Vegetables
+1719,1,681,Cauliflower,Vegetables
+1720,1,682,The Pilgrims Progress,Books
+1721,1,682,Harry Potter vol-1,Books
+1722,1,682,Harry Potter vol-2,Books
+1723,1,683,The Pilgrims Progress,Books
+1724,1,684,The Pilgrims Progress,Books
+1725,1,684,Harry Potter vol-1,Books
+1726,1,684,Cap,Clothing
+1727,1,685,Olive oil,Provision
+1728,1,685,Rice bag,Provision
+1729,1,686,Harry Potter vol-1,Books
+1730,1,686,Over_head headset,Electronics
+1731,1,686,Sweet Corn,Vegetables
+1732,1,686,Olive oil,Provision
+1733,1,686,Rice bag,Provision
+1734,1,686,Cap,Clothing
+1735,1,687,onion,Vegetables
+1736,1,687,Tomato,Vegetables
+1737,1,687,Bitter gaurd,Clothing
+1738,1,688,Over_head headset,Electronics
+1739,1,689,onion,Vegetables
+1740,1,689,Tomato,Vegetables
+1741,1,690,The Pilgrims Progress,Books
+1742,1,690,Harry Potter vol-1,Books
+1743,1,691,Bible,Books
+1744,1,691,The Pilgrims Progress,Books
+1745,1,691,Harry Potter vol-1,Books
+1746,1,692,Olive oil,Provision
+1747,1,692,Rice bag,Provision
+1748,1,693,The Pilgrims Progress,Books
+1749,1,694,Apple,Fruits
+1750,1,694,Banana,Fruits
+1751,1,694,Grapes,Fruits
+1752,1,695,Apple,Fruits
+1753,1,695,Banana,Fruits
+1754,1,696,Banana,Fruits
+1755,1,696,Strawberry,Fruits
+1756,1,696,Watermelon,Fruits
+1757,1,697,Cap,Clothing
+1758,1,697,Black T-shirt,Clothing
+1759,1,698,onion,Vegetables
+1760,1,698,Tomato,Vegetables
+1761,1,698,Cauliflower,Vegetables
+1762,1,699,The Pilgrims Progress,Books
+1763,1,700,Olive oil,Provision
+1764,2,700,Rice bag,Provision
+1765,1,701,Over_head headset,Electronics
+1766,1,701,Monitor,Electronics
+1767,1,702,The Pilgrims Progress,Books
+1768,1,702,Harry Potter vol-1,Books
+1769,2,703,Apple,Fruits
+1770,2,703,Banana,Fruits
+1771,1,704,Over_head headset,Electronics
+1772,1,705,Over_head headset,Electronics
+1773,1,705,Laptop,Electronics
+1774,1,705,Mobile,Electronics
+1775,1,705,Apple,Fruits
+1776,1,705,Banana,Fruits
+1777,1,705,Grapes,Fruits
+1778,1,705,Strawberry,Fruits
+1779,1,705,Watermelon,Fruits
+1780,2,705,Carrot,Vegetables
+1781,2,705,Rice bag,Provision
+1782,1,705,Cap,Clothing
+1783,1,705,Black T-shirt,Clothing
+1784,1,705,Blue T-shirt,Clothing
+1785,1,705,Jogging shoes,Clothing
+1786,2,705,Bitter gaurd,Clothing
+1787,1,706,Over_head headset,Electronics
+1788,1,706,Laptop,Electronics
+1789,1,706,Mobile,Electronics
+1790,1,706,Apple,Fruits
+1791,1,706,Banana,Fruits
+1792,1,706,Grapes,Fruits
+1793,1,706,Strawberry,Fruits
+1794,1,706,Watermelon,Fruits
+1795,2,706,Carrot,Vegetables
+1796,2,706,Rice bag,Provision
+1797,1,706,Cap,Clothing
+1798,1,706,Black T-shirt,Clothing
+1799,1,706,Blue T-shirt,Clothing
+1800,1,706,Jogging shoes,Clothing
+1801,2,706,Bitter gaurd,Clothing
+1802,1,707,The Pilgrims Progress,Books
+1803,1,708,Black Jean,Clothing
+1804,3,709,Bible,Books
+1805,1,710,onion,Vegetables
+1806,1,710,Tomato,Vegetables
+1807,1,710,Sweet Corn,Vegetables
+1808,1,710,Cauliflower,Vegetables
+1809,1,710,Carrot,Vegetables
+1810,1,711,Laptop,Electronics
